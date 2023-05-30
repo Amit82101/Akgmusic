@@ -13,13 +13,13 @@ let songs = [
     {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Rabba - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Bhula Dena - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "city_ncs_released", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "unknown Brain x Rival", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Syn_Cole_-_Gizmo__NCS_Release_", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Heuse___Zeus_x_Crona_-_Pill__feat__Emma_Sameth__", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Jim_Yosef_-_Link__NCS_Release_", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Janji Heroes Tonigh", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Jo_Cohen___Sex_Whales_-_We_Are__NCS_Release", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 

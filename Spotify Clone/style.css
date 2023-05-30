@@ -111,8 +111,10 @@ nav ul li{
 .songItem img{
     margin: 0 23px;
     justify-content:center;
+    
 
     }
+    
 
     .songItem img:hover{
         transform: scale(1.2);
